@@ -41,8 +41,5 @@ The script includes:
 
 This script is provided as-is. Feel free to use, modify, and distribute it according to your needs.
 
-## Author
-
-[Your Name] - [Your Email] - [Your Website (if any)]
 # linux-sc
 Linux shell scripting
